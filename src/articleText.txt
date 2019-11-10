@@ -1,0 +1,26 @@
+
+
+Ihmiset eivät ole aina kovin hyviä arvioimaan todennäköisyyksiä intuitiivisesti
+Tunnettu Monty Hall -ongelma
+
+Valinta: peitetty informaatio, näkyvä informaatio
+
+Sovelluksen logiikka
+1 Arvo palkinnon sijainti
+2 Valitse ovi
+3 Juontaja avaa palkinnottoman oven (jos pelaaja valitsi palkinto-oven, juontajalla on kaksi vaihtoehtoa)
+4 Valitse vaihto tai ei vaihtoa
+5 Tulos näytetään
+
+Selitetään todennäköisyyksistä...
+--vrt Khan Academyn selitys ja se, että jos pelaaja valitsee aluksi palkinnottoman oven (1/3), vaihtamalla hän voittaa aina.
+
+
+Voit testata todennäköisyyksiä itse:
+
+Tulosten simulointi
+
+1 Valitse toistojen lukumäärä
+2 Valitse strategia (0 = ei koskaan vaihtoa, 1 = aina vaihto)
+3 Generoi tulos
+4 Näytä voittojen lukumäärä
